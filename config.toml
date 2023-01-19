@@ -53,3 +53,11 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 # Google analytics
 googleAnalytics = 'UA-31763646-1'
+
+# Search engine crawl enable
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5

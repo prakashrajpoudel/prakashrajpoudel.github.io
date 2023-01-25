@@ -6,7 +6,7 @@ date = "2023-01-19T13:26:43-05:00"
 # description is optional
 #
 # description = "switch java mac"
-description = "Switch between mac"
+description = "Switch java version in mac"
 tags = []
 +++
 - Open a new Terminal window and input:

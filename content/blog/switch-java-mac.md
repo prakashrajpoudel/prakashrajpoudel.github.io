@@ -6,12 +6,9 @@ date = "2023-01-19T13:26:43-05:00"
 # description is optional
 #
 # description = "switch java mac"
-
-tags = [java, mac]
+description = "Switch between mac"
+tags = []
 +++
-
-This is a page about »Switch Java Mac«.
-
 - Open a new Terminal window and input:
     ```bash
        /usr/libexec/java_home -V
